@@ -76,12 +76,12 @@ clients:
    name: 'Nicklaus Rueda',
    title: 'Head of Promotion, Aeternity Booking',
    quote: '<p>Always makes flyers in a quickly and timely fashion. <strong>Some of the best designs</strong> both complex and simple in the Midwest. Easy to work with.</p>',
-   logo: 'logo1.png'}
+   logo: 'logo5.png'}
  - {avatar: 'face-markd.jpg',
    name: 'Marklar Dietrich ',
    title: 'Musician, Dishonored',
    quote: '<p><strong>Very good work for a great price.</strong>  Willing to work with you to get exactly what you need, when you need it.</p>',
-   logo: 'logo2.png'}
+   logo: 'logo6.png'}
 # - {avatar: 'face-jackiesaik.jpg',
 #   name: 'Stacy Lang',
 #   title: 'Social Media Girl, Quebec Int.',
