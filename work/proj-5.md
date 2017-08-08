@@ -1,5 +1,6 @@
 ---
-title: Fresh It Up
+title: Wedding Fun
 ---
 
-![Fresh It Up]({{ site.github.url }}/assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+![Wedding Fun]({{ site.github.url }}/assets/img/work/proj-5/dansteph1.png)
+![Wedding Fun]({{ site.github.url }}/assets/img/work/proj-5/dansteph2.png)
